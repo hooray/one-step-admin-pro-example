@@ -1,0 +1,8 @@
+
+/**
+ * 由 One-step-admin 提供技术支持
+ * Powered by One-step-admin
+ * https://one-step-admin.hurui.me
+ */
+    
+.absolute-container[data-v-ae11affe]{position:absolute;display:flex;flex-direction:column;width:100%;height:100%}.absolute-container .page-main[data-v-ae11affe]{flex:1;overflow:auto}.absolute-container .page-main[data-v-ae11affe] .main-container{display:flex;flex:1;flex-direction:column;overflow:auto}.page-header[data-v-ae11affe]{margin-bottom:0}.page-main .search-form[data-v-ae11affe]{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));margin-bottom:-18px}.page-main .search-form[data-v-ae11affe] .el-form-item{grid-column:auto / span 1}.page-main .search-form[data-v-ae11affe] .el-form-item:last-child{grid-column-end:-1}.page-main .search-form[data-v-ae11affe] .el-form-item:last-child .el-form-item__content{justify-content:flex-end}.page-main .el-divider[data-v-ae11affe]{width:calc(100% + 40px);margin-inline:-20px}
